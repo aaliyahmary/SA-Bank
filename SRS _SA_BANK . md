@@ -1,0 +1,42 @@
+# SA Bank - Software Requirements Specification (SRS)
+
+## 1. Introduction
+SA Bank is a banking management system designed to provide basic banking services through a simple and secure system.
+
+## 2. Purpose
+The purpose of this system is to manage customer accounts and provide banking services efficiently.
+
+## 3. Scope
+The system supports customer registration, login, account management, balance checking, money transfer, transaction history and bank administration.
+
+## 4. Functional Requirements
+- Customer Registration
+- Customer Login
+- Account Management
+- Check Account Balance
+- Money Transfer
+- Transaction History
+- Bank Admin Management
+
+## 5. Non-Functional Requirements
+- Security
+- Reliability
+- Easy to use
+- Fast response
+- Data accuracy
+
+## 6. User Roles
+### Customer
+Customers can register, login, manage accounts, check balance, transfer money and view transaction history.
+
+### Bank Admin
+The administrator can manage customer accounts and banking information.
+
+## 7. System Requirements
+- Computer or laptop
+- Internet connection
+- Web browser
+- GitHub repository
+
+## 8. Conclusion
+The SA Bank system provides a simple and organized solution for managing basic banking operations securely and efficiently.
